@@ -1,6 +1,6 @@
 <?php
 	
-	$dbhost = '127.0.0.1';
+	$dbhost = '192.168.1.101';
 	$dbuser = 'root';
 	$dbpass = '';
 	$dbname = 'directory';
